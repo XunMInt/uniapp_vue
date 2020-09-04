@@ -1,0 +1,28 @@
+.new.data-v-08ebee66 {
+  padding: 20rpx;
+}
+.new .title.data-v-08ebee66 {
+  font-size: 35rpx;
+  text-align: center;
+  font-weight: bold;
+}
+.new .info.data-v-08ebee66 {
+  overflow: hidden;
+  font-size: 25rpx;
+  margin: 20rpx 0;
+  padding-bottom: 10rpx;
+  border-bottom: 2px solid #000;
+}
+.new .info .time.data-v-08ebee66 {
+  float: left;
+}
+.new .info .click.data-v-08ebee66 {
+  float: right;
+}
+.new .content.data-v-08ebee66 {
+  float: left;
+  line-height: 60rpx;
+  font-size: 30rpx;
+  text-indent: 2em;
+}
+

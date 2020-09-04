@@ -1,0 +1,7 @@
+{
+  "navigationBarTitleText": "迅梦超市",
+  "enablePullDownRefresh": true,
+  "usingComponents": {
+    "goods-list": "/components/goodsList"
+  }
+}

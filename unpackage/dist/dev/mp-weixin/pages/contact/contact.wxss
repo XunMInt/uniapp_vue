@@ -1,0 +1,23 @@
+.img {
+  width: 750rpx;
+  height: 320rpx;
+}
+.text {
+  padding: 20rpx;
+}
+.text view {
+  font-size: 30rpx;
+  line-height: 50rpx;
+  border-bottom: 1px solid #eee;
+}
+.text view:nth-child(1) {
+  padding-bottom: 20rpx;
+}
+.text view:nth-child(2) {
+  padding: 10rpx 0;
+}
+.map {
+  width: 750rpx;
+  height: 750rpx;
+}
+
